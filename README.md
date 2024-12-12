@@ -6,10 +6,10 @@
  ✨Thayz is my name✨ 
 </h2>
 <div id="badges" align="center">
-  <a href="(https://www.facebook.com/they8439/)">
+  <a href="https://www.facebook.com/they8439/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="(https://www.instagram.com/em_they/)">
+  <a href="https://www.instagram.com/em_they/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/-ThayPanyasak-blue?style=flat&logo=Facebook&logoColor=white)]((https://www.facebook.com/they8439/))
+- :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/-ThayPanyasak-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/they8439/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
